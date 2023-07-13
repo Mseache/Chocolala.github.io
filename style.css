@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(-225deg, rgb(88, 243, 27) 0%, #21a128 100%);
+
+}
+
+
+h1 {
+    text-align: center;
+
+    background-color:rgb(130, 138, 128)
+    
+}
+h5 {
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+    font-style: oblique;
+    background-color: rgb(40, 173, 40);
+}
+
+.footer {
+    text-align: justify;
+}
+
+.card-text {
+    text-align: justify;
+}
